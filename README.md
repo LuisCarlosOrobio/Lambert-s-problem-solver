@@ -1,6 +1,7 @@
 # A simple lambert's problem solver
 
-This project was created for the sole purpose of understanding Lambert's problem and trying to hack my way around to solve it. 
+This project was created for the sole purpose of understanding Lambert's problem and trying to hack my way around to solve it. The problem is solved using a C program and visualizes the resulting trajectory using a Python script.
+
 
 ## Prerequisites
 
