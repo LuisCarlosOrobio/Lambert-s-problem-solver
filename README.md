@@ -23,11 +23,11 @@ pip install matplotlib numpy
 ```
 ### Setting Up the Environment
 
-1. *Clone the Repository*
+1. Clone the Repository
    ```bash
    git clone https://github.com/LuisCarlosOrobio/Lambert-s-problem-solver.git
    cd Lambert-s-problem-solver
 
-2. *Run it!*
+2. Run it!
    ```bash
    make
