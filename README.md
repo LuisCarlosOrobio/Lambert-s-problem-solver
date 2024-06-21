@@ -32,3 +32,14 @@ pip install matplotlib numpy
 2. Run it!
    ```bash
    make
+
+### Demo
+
+https://github.com/LuisCarlosOrobio/Lambert-s-problem-solver/assets/140061957/e092a717-c123-4fac-9927-483aba69b49c
+
+
+
+
+
+
+
